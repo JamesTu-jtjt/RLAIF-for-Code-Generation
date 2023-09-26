@@ -1,0 +1,67 @@
+Sorting and Algorithms:
+1. Implement a function to sort an array of integers in ascending order using the Selection Sort algorithm.
+2. Write a program to sort a list of strings in lexicographical order using the Insertion Sort algorithm.
+3. Create a function that takes a list of integers as input and returns the list sorted using the Bubble Sort algorithm.
+4. Implement a function to sort an array of floating-point numbers in descending order using the Quick Sort algorithm.
+5. Write a program to sort a list of objects based on a specific attribute using the Merge Sort algorithm.
+
+Mathematical Operations:
+1. Write a program to calculate the factorial of a given positive integer using a loop.
+2. Implement a function to find the largest prime number within a specified range using trial division.
+3. Create a program that generates the Fibonacci sequence up to a given number using iteration.
+4. Write a function to calculate the sum of all even numbers from 1 to a given positive integer.
+5. Implement a function to check if a given number is a prime number.
+
+Data Structures:
+1. Implement a class named "Rectangle" with attributes like length and width, along with a method to calculate the area.
+2. Create a stack data structure using a list and provide functions for pushing and popping elements.
+3. Design a queue data structure using an array and provide functions for enqueue and dequeue operations.
+4. Implement a binary search tree data structure and provide functions for insertion and search operations.
+5. Create a program that uses a hash table to store and retrieve student information based on their roll number.
+
+String Manipulation:
+1. Write a program to count the occurrences of a specific character in a given string.
+2. Implement a function to reverse a given string without using any built-in string reversal functions.
+3. Create a program that checks if two strings are anagrams of each other.
+4. Write a function to remove all duplicate characters from a given string and return the modified string.
+5. Implement a function to check if a given string is a valid palindrome.
+
+Graphs and Graph Algorithms:
+1. Implement a graph data structure and provide functions for adding nodes and adding edges.
+2. Write an algorithm to perform a depth-first search (DFS) traversal on a graph and print the visited nodes.
+3. Create a program that performs a breadth-first search (BFS) traversal on a given undirected graph and prints the order of visited nodes.
+4. Implement a function to find the shortest path between two nodes in an unweighted graph using BFS.
+5. Write a program that checks if a given undirected graph is connected or not.
+
+Dynamic Programming:
+1. Solve the Fibonacci sequence using dynamic programming with memoization.
+2. Implement a function to calculate the binomial coefficient using dynamic programming.
+3. Write a program that finds the longest increasing subsequence in an array using dynamic programming.
+4. Create a dynamic programming solution to solve the 0/1 Knapsack problem with a given weight capacity and item values.
+5. Implement a function to calculate the nth term of the Tribonacci sequence using dynamic programming.
+
+Recursion:
+1. Write a recursive function to calculate the sum of all elements in an array.
+2. Implement a recursive algorithm to find the greatest common divisor (GCD) of two numbers.
+3. Create a recursive function to calculate the power of a given base and exponent.
+4. Write a program that uses recursion to generate all possible permutations of a given string.
+5. Implement a recursive function to calculate the factorial of a non-negative integer.
+
+File I/O and File Processing:
+1. Write a program that reads data from a text file and displays its contents on the console.
+2. Implement a program that counts the number of lines in a given text file and displays the result.
+3. Create a program that reads a CSV file, extracts specific columns, and saves them in a new file.
+4. Write a program to find and replace a specific word in a text file with another word.
+5. Implement a program that reads an XML file, extracts relevant data, and displays it on the console.
+
+Concurrency and Multithreading:
+1. Design a program that uses multithreading to perform parallel processing on a list of tasks.
+2. Implement a concurrent program that calculates the sum of elements in a large array using multiple threads.
+3. Create a program that uses multithreading to download multiple files simultaneously from different URLs.
+4. Write a program that uses multithreading to perform matrix multiplication for improved performance.
+5. Implement a concurrent program that reads and processes data from multiple files concurrently.
+
+
+
+
+
