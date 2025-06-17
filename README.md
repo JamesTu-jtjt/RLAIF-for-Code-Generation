@@ -1,8 +1,3 @@
-## Reference
-https://github.com/nyu-mll/ILF-for-code-generation  
-[Improving Code Generation by Training with Natural Language Feedback](https://arxiv.org/abs/2303.16749)  
-[LeTI: Learning to Generate from Textual Interactions.](https://arxiv.org/abs/2305.10314)
-
 ## Slides & Poster
 [Slides](https://www.canva.com/design/DAFlJjWlIxM/PxNXOFmaSOfViRpWfNtYWg/view)  
 [Poster](https://www.canva.com/design/DAFlHMIIvQU/UV08fExZSFdzEHFtuKBJNg/view)
@@ -122,7 +117,9 @@ python manage.py runserver
 ![picture alt](Original_result.png)
 * ### Results from finetuned model
 ![picture alt](Finetuned_result.png)
-
-
-
 ### Finetuned model generated correct result for this task and original model generated incorrect result
+
+## Project References
+https://github.com/nyu-mll/ILF-for-code-generation  
+[Improving Code Generation by Training with Natural Language Feedback](https://arxiv.org/abs/2303.16749)  
+[LeTI: Learning to Generate from Textual Interactions.](https://arxiv.org/abs/2305.10314)
